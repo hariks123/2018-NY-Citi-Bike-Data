@@ -13,7 +13,7 @@
     https://public.tableau.com/app/profile/harrry/viz/NYCitiBikeData_16437577732160/UserStory
   </p> 
     <p>
-    <br> Below are the observed data phenomenon </br>
+    <br> Below are the observed data phenomenon. Document "2018 data observed phenomenon" has the details. </br>
     <h3>Deductions</h3>
     <ul>
    
